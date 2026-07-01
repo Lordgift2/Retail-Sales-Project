@@ -102,7 +102,7 @@ Project Files
 
 📁 Dataset
 📁 SQL Queries
-📁 Power BI Dashboard
+📁 [Power BI Dashboard](./dashboard/Dashboard and Analysis.pbix)
 📁 dashboard/Dashboard Screenshot.png
 📁 Project Documentation
 

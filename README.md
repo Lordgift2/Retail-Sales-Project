@@ -103,7 +103,7 @@ Project Files
 📁 Dataset
 📁 SQL Queries
 📁 Power BI Dashboard
-📁 Dashboard Screenshots
+📁 dashboard/Dashboard Screenshot.png
 📁 Project Documentation
 
 ---

@@ -103,8 +103,7 @@ Project Files
 📁![Dataset](./Dataset)
 📁![SQL Queries](./sql)
 📁![Power BI Dashboard](./dashboard)
-📁 dashboard/Dashboard Screenshot.png
-📁 Project Documentation
+📁![Screenshot](/Dashboard Screenshot.png)
 
 ---
 

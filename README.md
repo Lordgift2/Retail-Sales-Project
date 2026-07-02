@@ -101,7 +101,9 @@ The dashboard provides management with clearer visibility into sales performance
 Project Files
 
 📁![Dataset](./Dataset)
+
 📁![SQL Queries](./sql)
+
 📁![Power BI Dashboard](./dashboard)
 
 📷![Screenshot](./dashboard/DashboardScreenshot.png)
